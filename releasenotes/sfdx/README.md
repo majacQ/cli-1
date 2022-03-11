@@ -14,7 +14,9 @@ If you use [autocomplete](https://developer.salesforce.com/docs/atlas.en-us.sfdx
 
 Want to check out the new `sf` executable of Salesforce CLI? [Click here for the release notes.](../sf/README.md)
 
-## 7.141.1 (March 10, 2022) [stable]
+## 7.141.1 (March 10, 2022) [stable-rc]
+
+These changes are in the Salesforce CLI release candidate. We plan to include these changes in next week's official release. This list isn't final and is subject to change.
  
  * CHANGE: Due to unexpected issues, we reverted the GA of the `force:source:beta:*` commands that we announced on [March 3, 2022](https://github.com/forcedotcom/cli/blob/main/releasenotes/sfdx/README.md#71400-march-3-2022-stable). As a result, for example:
 
@@ -58,7 +60,7 @@ Want to check out the new `sf` executable of Salesforce CLI? [Click here for the
     * RecordAlertCategory
     * RecordAlertDataSource
  
-## 7.140.0 (March 3, 2022)
+## 7.140.0 (March 3, 2022) [stable]
 
 * NEW: After a successful beta and great feedback from our community, the following commands that used to be in the `force:source:beta` topic are now generally available: 
 
